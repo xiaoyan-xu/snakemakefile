@@ -1,0 +1,11 @@
+samples:
+  fh1: "data/fh1.fastq"
+  fh2: "data/fh2.fastq"
+  fh3: "data/fh3.fastq"
+  ref1: "data/ref1.fastq"
+  ref2: "data/ref2.fastq"
+  ref3: "data/ref3.fastq"
+
+genome: "reference/genome.fna"
+
+annotation: "reference/genes.gff"
